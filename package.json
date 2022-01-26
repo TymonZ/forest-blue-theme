@@ -9,6 +9,18 @@
 	"author": {
 		"name": "Tymon Zaniewski"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/TymonZ/forest-blue-theme"
+	},
+	"icon": "images/ForestBlue.png",
+	"keywords": [
+		"Theme",
+		"Blue",
+		"Green",
+		"Forest",
+		"Dark"
+	],
     "categories": [
         "Themes"
     ],
