@@ -1,0 +1,24 @@
+{
+    "name": "forest-blue-theme",
+    "displayName": "Forest Blue Theme",
+    "description": "a dark, green-blue theme for vscode!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+	"author": {
+		"name": "Tymon Zaniewski"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Forest Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Forest Blue-color-theme.json"
+            }
+        ]
+    }
+}
